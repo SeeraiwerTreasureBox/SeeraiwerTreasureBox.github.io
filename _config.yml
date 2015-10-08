@@ -1,0 +1,12 @@
+# Site settings
+title: Seeraiwer / TreasureBox / DevBlog
+email: stephane.mourey@impossible-exil.info
+description: > # this means to ignore newlines until "baseurl:"
+  Le Blog des développeurs de la TreasureBox, un projet Seeraiwer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://seeraiwertreasurebox.github.io/" # the base hostname & protocol for your site
+twitter_username: impossibleExil
+github_username:  taophp
+
+# Build settings
+markdown: kramdown
